@@ -1,21 +1,21 @@
 /* YouTube */
 [href*="youtu.be"],
 [href*="youtube.com"] {
-    color: #c4302b !important;
+    color: #542623 !important;
 }
 
 /* Twitch */
 [href*="twitch.tv"] {
-    color: #b700ff !important;
+    color: #765e80 !important;
 }
 
 /* Discord */
 [href*="discord.com/channels/"] {
-    color: #7289da !important;
+    color: #565b6e !important;
 }
 
 [href*="discord.com/channels/"]::before {
-    color: #603cff;
+    color: #69667a;
 }
 
 [href*="betterdiscord.app/"],
@@ -23,12 +23,12 @@
 [href*="discord.com/"],
 [href*="media.discordapp.net/"],
 [href*="cdn.discordapp.com/"] {
-    color: #7289da !important;
+    color: #8e93a3 !important;
 }
 
 /* Twitter */
 [href*="twitter.com/"] {
-    color: #00acee !important;
+    color: #5e677d !important;
 }
 
 /* GitHub */
@@ -38,14 +38,14 @@
 
 /* Imgur */
 [href*="i.imgur.com"] {
-    color: #89c623 !important;
+    color: #4d573c !important;
 }
 
 /* Steam */
 html.theme-dark [href*="store.steampowered.com"],
 html.theme-dark [href*="https://s.team"],
 html.theme-dark [href*="steamcommunity.com/"] {
-    color: #899db6 !important;
+    color: #707a87 !important;
 }
 
 html.theme-light [href*="store.steampowered.com"],
@@ -57,7 +57,7 @@ html.theme-light [href*="steamcommunity.com/"] {
 /* Spotify */
 [href*="spotify.com"],
 [href*="open.spotify.com"] {
-    color: #13b94a !important;
+    color: #3e5446 !important;
 }
 
 /* SoundCloud */
